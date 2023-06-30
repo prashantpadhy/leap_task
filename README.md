@@ -9,6 +9,7 @@ pip install flask flask_pymongo
 python app.py
 
 #end points
+
 1.To store like events 
 POST -H "Content-Type: application/json" -d '{"user_id":"123","content_id":"456"}' http://localhost:5000/likes
 
