@@ -2,6 +2,7 @@
 #Installation
 
 pip install flask
+
 pip install flask flask_pymongo
 
 #to run the app
